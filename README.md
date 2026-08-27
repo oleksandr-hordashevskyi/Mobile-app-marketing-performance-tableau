@@ -1,7 +1,7 @@
 # 🎮 Mobile App Marketing Performance & ROAS Analytics Dashboard
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-Interactive_Dashboard-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/views/MarketingPerformanceRevenueOverview/MarketingPerformanceRevenueOverview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-[![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-SQL_Data_Mart-669DF6?logo=googlecloud&logoColor=white)](sql/mornhouse_marketing_mart.sql)
+[![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-SQL_Data_Mart-669DF6?logo=googlecloud&logoColor=white)](sql/company_marketing_mart.sql)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📌 Executive Summary

@@ -61,6 +61,9 @@ mobile-app-marketing-analytics-tableau/
 ├── sql/
 │   └── company_marketing_mart.sql                 # BigQuery ETL extraction & mart generation script
 ├── data/
+│   └── company_marketing_mart.csv                 # Cleaned & aggregated dataset
+└── images/
+    └── Marketing Performance & Revenue Overview.png # High-resolution dashboard view
 ```
 
 📬 Contact
@@ -69,6 +72,3 @@ Author: Oleksandr Hordashevskyi
 LinkedIn: www.linkedin.com/in/oleksandr-hordashevskyi
 
 Email: o.hordashevskyi@gmail.com
-│   └── mornhouse_marketing_mart.csv                 # Cleaned & aggregated dataset
-└── images/
-    └── Marketing Performance & Revenue Overview.png # High-resolution dashboard view
